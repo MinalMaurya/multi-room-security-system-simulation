@@ -8,12 +8,6 @@ The project focuses on **3D scene construction, architectural layout design, and
 
 **Note:** This is a visual prototype. Security functionality and interactive gameplay mechanics have not been implemented.
 
-## 🖼️ Project Preview
-
-![Multi-Room Security System Simulation — Godot Editor View](screenshots/office-layout.png)
-
-*3D building layout viewed in the Godot editor.*
-
 ## ✨ Features
 
 - Multi-room 3D building layout
@@ -59,7 +53,7 @@ The project demonstrates environment construction and scene organization rather 
 
 Watch the project walkthrough on YouTube:
 
-**[Watch the 3D Environment Demo](YOUR_YOUTUBE_VIDEO_URL)**
+**[Watch the 3D Environment Demo](https://www.youtube.com/watch?v=Uh0xlRCn8ZY)**
 
 ## 🚀 Future Enhancements
 
