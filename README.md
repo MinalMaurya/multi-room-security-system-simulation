@@ -1,79 +1,77 @@
-# 🏢 Multi-Room Security System Simulation (Godot Project)
+# 🏢 Multi-Room Security System Simulation — Godot Project
 
 ## 🎮 Overview
 
-This project is a **basic simulation built using the Godot Engine**, focused on creating a multi-room architectural environment.
+The **Multi-Room Security System Simulation** is a 3D environment prototype created using the **Godot Engine**. It features a building-style layout with multiple rooms, office workspaces, furniture, seating areas, and other interior elements.
 
-It is not a fully functional security system, but rather a **scene-building and layout-based simulation** created using pre-built elements and assets.
+The project focuses on **3D scene construction, architectural layout design, and organizing a multi-room environment** within a game engine. It serves as a foundation for exploring interactive building simulations and potential security-related features in future iterations.
 
-The main goal was to design a structured environment that represents a building-like system with multiple rooms.
+**Note:** This is a visual prototype. Security functionality and interactive gameplay mechanics have not been implemented.
 
----
+## 🖼️ Project Preview
 
-## ⚠️ Important Note
+![Multi-Room Security System Simulation — Godot Editor View](screenshots/office-layout.png)
 
-This project is a **non-functional prototype**.
+*3D building layout viewed in the Godot editor.*
 
-- No real security logic is implemented  
-- No scripting or gameplay mechanics are included  
-- No detection, alerts, or AI systems are active  
-- It is purely a **visual and structural Godot scene**
+## ✨ Features
 
----
+- Multi-room 3D building layout
+- Office workspaces and furniture arrangements
+- Reception and seating areas
+- Structured scene organization using Godot's node and scene system
+- Static architectural environment visualization
+- Use of imported assets and pre-built 3D elements
 
-## 🎯 Purpose of the Project
+## 🎯 Project Objectives
 
-- To learn Godot Engine basics  
-- To understand scene building and node structure  
-- To create a multi-room architectural layout  
-- To practice environment design in a game engine  
-- To build a foundation for future interactive game systems  
+- Explore the fundamentals of the Godot Engine
+- Understand scene construction and node organization
+- Design a structured, multi-room architectural environment
+- Practice arranging 3D assets within a game engine
+- Establish a foundation for future interactive simulation features
 
----
+## ⚠️ Current Implementation
 
-## 🧱 Features
+This project is currently a **static 3D environment prototype**.
 
-- Multi-room environment layout  
-- Godot scene-based structure  
-- Architectural visualization  
-- Static building simulation  
-- Pre-built asset usage  
+- No security detection or monitoring logic
+- No active surveillance or alert system
+- No AI-based functionality
+- No implemented player movement or interactive gameplay mechanics
 
----
+The project demonstrates environment construction and scene organization rather than a working security system.
 
 ## 🛠️ Built With
 
-- Godot Engine  
-- Scene system (Nodes & Scenes)  
-- Imported assets / templates  
+- **Godot Engine** — 3D environment development
+- **Godot Scenes and Nodes** — Scene structure and organization
+- **3D Assets** — Furniture and interior elements
 
----
+## 📂 Project Information
 
-## 📂 Project Type
+- **Project Type:** 3D Environment Prototype
+- **Category:** Scene Design / Architectural Visualization
+- **Engine:** Godot
+- **Author:** Minal Maurya
 
-> Game Engine Prototype / Scene Design / Architectural Simulation
+## 🎥 Project Demo
 
----
+Watch the project walkthrough on YouTube:
 
-## 🚀 Future Improvements
+**[Watch the 3D Environment Demo](YOUR_YOUTUBE_VIDEO_URL)**
 
-If expanded, this project could include:
+## 🚀 Future Enhancements
 
-- Player movement system  
-- Interactive doors and rooms  
-- Security detection logic (scripts)  
-- Camera surveillance system  
-- Real-time event triggers  
-- Fully playable simulation  
+Potential improvements for future versions include:
 
----
+- First-person player movement and navigation
+- Interactive doors and room transitions
+- Security camera placement and monitoring
+- Scripted detection and alert mechanisms
+- Event triggers and interactive objects
+- A playable multi-room security simulation
 
-## 👨‍💻 Author
+## 📄 Usage Note
 
-**Minal Maurya**  
-
----
-
-## 📄 License
-
-This project is for learning and demonstration purposes only.
+This project was created for learning and demonstration purposes. Any imported assets remain subject to their respective licenses and usage terms.
